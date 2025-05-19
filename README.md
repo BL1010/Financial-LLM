@@ -17,14 +17,14 @@ A lightweight Financial Language Model pipeline that leverages GPT-4 to generate
 
 ## 📁 Project Structure
 
-├── data/ # Saved raw and processed data
-├── prompt.py # Prompt templates for GPT-4
-├── data.py # Data preprocessing and GPT querying logic
-├── indices.py # List of index symbols
-├── main.py # Main launcher script
-├── utils/ # (Optional) Utility scripts
-└── README.md # This file
-Fine tuning of Llama using Lora 
+1.  data/ # Saved raw and processed data
+2.  prompt.py # Prompt templates for GPT-4
+3.  data.py # Data preprocessing and GPT querying logic
+4.   indices.py # List of index symbols
+5.   main.py # Main launcher script
+6.   utils/ # (Optional) Utility scripts
+7.   README.md # This file
+8.   Fine tuning of Llama using Lora 
 
 ## ⚙️ How It Works
 
